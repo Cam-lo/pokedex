@@ -1,0 +1,2 @@
+Despliegue de PokéDex en Azure Static Web Apps
+Este documento describe paso a paso el proceso de despliegue de la aplicación PokéDex en Microsoft Azure, utilizando el servicio Azure Static Web Apps con integración continua desde GitHub.
